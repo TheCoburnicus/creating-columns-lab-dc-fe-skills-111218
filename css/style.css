@@ -1,5 +1,4 @@
 .column {
-  <div class=.small
 body, html {
   width: 100%;
   height: 100%;
@@ -9,7 +8,7 @@ body, html {
   text-align: center;
   background-color: #666;
 }
-
+<div class=".small">
 .container, h1 {
   width: 80%;
   max-width: 600px;
