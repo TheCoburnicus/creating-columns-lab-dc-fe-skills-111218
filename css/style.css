@@ -1,7 +1,6 @@
 .column {
   width: 48%;
-#centered{
-  margin:auto;
+  align-self:center;
 }
 body, html {
   width: 100%;
@@ -61,7 +60,6 @@ img:hover {
   background-color: #dd4444;
 </div>
   
-}
 }
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
