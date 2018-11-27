@@ -12,6 +12,7 @@ body, html {
 
 .container, h1 {
   width: 600px;
+  align-content: center;
 <div class=".small">
 width: 80%;
   max-width: 100px;
